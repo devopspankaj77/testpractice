@@ -12,6 +12,6 @@ terraform {
 
 provider "azurerm" {
   features {}
-  # I am Pankaj Tiwari
-  
+  # I am Pankaj Tiwari trying to learn git commit
+
 }
